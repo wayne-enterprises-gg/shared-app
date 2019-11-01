@@ -1,1 +1,7 @@
-d2088a4a-ee46-41e7-a418-d0fc22e45874
+import antigravity
+
+def main():
+    antigravity.fly()
+
+if __name__ == "__main__":
+    main()
